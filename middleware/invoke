@@ -1,3 +1,3 @@
 #!/bin/sh
 
-/usr/bin/invoke_app "$@" -C "start_jupyter -A -T @tool GBM_oHSV1_app.ipynb" -t GBMoHSV1 -u anaconda3-5.1
+/usr/bin/invoke_app "$@" -C "start_jupyter -A -T @tool GBM_oHSV1_app.ipynb" -t ohsv1gbmapp -u anaconda3-5.1
